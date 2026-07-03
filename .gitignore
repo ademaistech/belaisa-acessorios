@@ -4,3 +4,6 @@ Captura de tela *.png
 # Sistema
 Thumbs.db
 .DS_Store
+
+.vercel
+.env*
